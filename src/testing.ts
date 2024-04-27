@@ -1,0 +1,1 @@
+const nameOfUser: boolean = true;
